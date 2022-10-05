@@ -46,6 +46,7 @@ function TaskForm() {
 
         <div>
           <button onClick={showAlert}>ELIMINAR</button>
+          <button onClick={showAlert}>ELIMINAR</button>
         </div>
       </form>
     </div>
