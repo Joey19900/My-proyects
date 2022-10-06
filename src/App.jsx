@@ -42,7 +42,7 @@ function TaskForm() {
           className="bg-slate-300 p-3 w-full mb-2"
         ></textarea>
 
-        <button className="bg-indigo-500 px-3 py1 text-white">GUARDAD</button>
+        <button className="bg-indigo-500 px-3 py1 text-white">GUARDAR</button>
 
         <div>
           <button onClick={showAlert}>ELIMINAR</button>
