@@ -11,8 +11,10 @@ function TaskForm() {
       title: "confirmar",
       text: "¿Esta seguro de eliminar está tarea?",
       icon: "waring",
-      button: "aceptar",
-      //agregar parametro para cancelar elimi
+      buttons: {
+        cancel: "cancelar",
+        confirmar: "confirmar",
+      },
     });
   };
 
